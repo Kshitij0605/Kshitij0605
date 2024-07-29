@@ -1,4 +1,4 @@
-[![MasterHead](https://www.deviantart.com/archipics/art/Boyfriend-s-Room-884665807)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Farchipics%2Fart%2FBoyfriend-s-Room-884665807&psig=AOvVaw2rj8LufDa3kJda_9OhZsqF&ust=1722374188359000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiItPmVzYcDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Kshitij Sinha</h1>
 <h3 align="center">Passionate computer science student eager to learn and build innovative solutions.</h3>
 
